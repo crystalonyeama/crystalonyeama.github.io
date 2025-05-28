@@ -7,7 +7,7 @@ about:
   name: Crystal Onyeama
   role: Just Graduated From Towson University
   image: /assets/images/crystal.jpg
-  linkedin:www.linkedin.com/in/crystal-onyeama-20776b265
+  linkedin: www.linkedin.com/in/crystal-onyeama-20776b265
   bio: |
    22 and freshly graduated, I'm passionate about skincare and the science behind it. Exploring how beauty and innovation blend to create confident, glowing skin!
 
