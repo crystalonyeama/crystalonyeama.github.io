@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Crystal Onyeama
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Skincare Is A Journey, Not A Destination"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Graduated from Towson University"
+  - "🔬 Research: Trustworthy Multimodal AI for Skin Cancer Detection"
+  - "📍 Based in Baltimore, MD"
+  - "🚀 Passionate about skincare with a tech twist — where innovation meets self-care!"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/me.jpg
+linkedin: www.linkedin.com/in/crystal-onyeama-20776b265
+image: /assets/images/crystal-onyeama-20776b265
 ---
