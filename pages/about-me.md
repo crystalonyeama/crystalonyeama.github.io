@@ -13,7 +13,7 @@ about:
 
    My work explores the intersection of skincare and technology—how data-driven tools, smart devices, and digital platforms can empower people to better understand and care for their skin.
 
-  When I’m not diving into the science of skin health, I enjoy experimenting with new formulations, learning about cosmetic chemistry, and staying up to date with the latest beauty tech innovations.
+   When I’m not diving into the science of skin health, I enjoy experimenting with new formulations, learning about cosmetic chemistry, and staying up to date with the latest beauty tech innovations.
 
   hobbies:
   - icon: 🌍
