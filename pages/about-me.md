@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Crystal Onyeaa
+  name: Crystal Onyeama
   role: Just Graduated From Towson University
   image: /assets/images/crystal.jpg
   linkedin: www.linkedin.com/in/crystal-onyeama-20776b265
