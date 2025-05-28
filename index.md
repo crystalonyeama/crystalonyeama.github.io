@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about skincare with a tech twist — where innovation meets self-care!"
 
 linkedin: www.linkedin.com/in/crystal-onyeama-20776b265
-image: /assets/images/crystal-onyeama-20776b265
+image: /assets/images/crystal.jpg
 ---
