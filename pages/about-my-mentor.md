@@ -18,7 +18,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Saroj Pramanik
   title: Associate Professor, Biology, Morgan State University
-  image: /assets/images/PramanickSaroj.jpg
+  image: /assets/images/PramanikS.jpg
   website: https://facultymentor.example.com
   bio: |
     Dr. Saroj Pramanik is an Associate Professor of Biology at Morgan State University with a Ph.D. in Biochemistry from the Indian Agricultural Research Institute in New Delhi. His extensive research spans bioremediation, somatic embryogenesis, protein synthesis, and cancer drug development. He is particularly interested in translational control of gene expression during cellular differentiation and the use of plant-microbial systems to remediate toxic chemicals.
