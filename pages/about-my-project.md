@@ -32,5 +32,5 @@ grad_mentor:
 
 faculty_mentor:
   name: Dr. Saroj Pramanik
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  linkedin: www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
 ---
