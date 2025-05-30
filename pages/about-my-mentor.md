@@ -10,7 +10,7 @@ graduate_mentor:
   website: linkedin.com/in/blessing-isoyiza-adeika
   bio: |
     Blessing Adieka is an Artificial Intelligence Researcher at The C4 Lab at Morgan State University and a Certified Artificial Intelligence Engineer (AiE™). With a strong foundation in deep learning, computer vision, and Python programming, her work explores cutting-edge applications of AI in fields like neuroengineering, education, and healthcare. She has contributed to impactful projects ranging from plant disease detection using AI to privacy-focused social media research.
-
+    
   Blessing holds a Master’s degree in Advanced Computing from Morgan State University, where she maintained a 4.0 GPA. Her research has been recognized at national conferences, and she has also served as a mentor in various AI/ML programs, helping students grow their technical and communication skills.
 
   Although we’ve only just started working together, she already comes across as kind, approachable, and enthusiastic about sharing her knowledge. I’m excited to learn more from her as the program continues and to gain insights from her unique experiences in the world of AI and data science.
